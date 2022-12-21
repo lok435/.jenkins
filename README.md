@@ -1,6 +1,4 @@
 # .jenkins
-.jenkins
-
 pipeline{
     agentany
     stages{
