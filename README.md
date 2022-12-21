@@ -9,6 +9,7 @@ pipeline{
                 sh 'echo "hello world"'
                 sh '''
                 echo "multiline shell script works too"
+                ls -lah
                 '''
 
             }
